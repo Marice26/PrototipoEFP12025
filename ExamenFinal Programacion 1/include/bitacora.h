@@ -1,4 +1,4 @@
-#ifndef BITACORA_H//meilyn juleisy garcia lima 9959-23-17838
+#ifndef BITACORA_H//bitacora para ver los movimientos
 #define BITACORA_H
 
 #include <string>

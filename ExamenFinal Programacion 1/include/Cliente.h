@@ -7,7 +7,7 @@
 #include <string>
 #include <fstream>
 
-class Cliente {
+class Cliente { //se definen lo que se le pide al usuario
 public:
     std::string nombre;
     std::string telefono;

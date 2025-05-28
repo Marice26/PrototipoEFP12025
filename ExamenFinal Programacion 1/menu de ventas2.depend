@@ -1,0 +1,215 @@
+# depslib dependency file v1.0
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\main.cpp
+	<iostream>
+	"SistemaVentas.h"
+	"Login.h"
+	"bitacora.h"
+	"Cliente.h"
+	"Facturacion.h"
+	"Producto.h"
+	"vendedores.h"
+	"venta.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\sistemaventas.h
+	<vector>
+	<string>
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"Vendedores.h"
+
+1747778522 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\cliente.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\producto.h
+	<string>
+	<vector>
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\venta.h
+	<string>
+	<vector>
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\vendedores.h
+	<iostream>
+	<vector>
+	<string>
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\login.h
+	<string>
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\bitacora.h
+	<string>
+	"Cliente.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\facturacion.h
+	"Cliente.h"
+	"Venta.h"
+	"SistemaVentas.h"
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\bitacora.cpp
+	"bitacora.h"
+	<fstream>
+	<ctime>
+	<cstring>
+
+1747778457 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\facturacion.cpp
+	"Facturacion.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\producto.cpp
+	"Producto.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\sistemaventas.cpp
+	<iostream>
+	"SistemaVentas.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\usuario.cpp
+	"Usuario.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\include\usuario.h
+	<string>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\vendedores.cpp
+	"Vendedores.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1747778310 source:c:\users\seles\onedrive\portablegit\sistemas ventas\proyectop12k25\equipo7\src\venta.cpp
+	"Venta.h"
+
+1748450266 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\main.cpp
+	<iostream>
+	"SistemaVentas.h"
+	"Login.h"
+	"bitacora.h"
+	"Cliente.h"
+	"Facturacion.h"
+	"Producto.h"
+	"vendedores.h"
+	"venta.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\sistemaventas.h
+	<vector>
+	<string>
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"Vendedores.h"
+
+1747778522 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\cliente.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\producto.h
+	<string>
+	<vector>
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\venta.h
+	<string>
+	<vector>
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\vendedores.h
+	<iostream>
+	<vector>
+	<string>
+
+1748448298 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\login.h
+	<string>
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\bitacora.h
+	<string>
+	"Cliente.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\facturacion.h
+	"Cliente.h"
+	"Venta.h"
+	"SistemaVentas.h"
+
+1748449614 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\bitacora.cpp
+	"bitacora.h"
+	<fstream>
+	<ctime>
+	<cstring>
+
+1747778457 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\facturacion.cpp
+	"Facturacion.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+
+1748450128 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\login.cpp
+	"Login.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\producto.cpp
+	"Producto.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\sistemaventas.cpp
+	<iostream>
+	"SistemaVentas.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1747778311 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\vendedores.cpp
+	"Vendedores.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+
+1747778310 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\venta.cpp
+	"Venta.h"
+
+1748447802 source:c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\src\usuario.cpp
+	"Usuario.h"
+
+1747778310 c:\users\seles\onedrive\portablegit\prototipoefp12025\examenfinal programacion 1\include\usuario.h
+	<string>
+

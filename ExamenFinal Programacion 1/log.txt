@@ -1,0 +1,432 @@
+5f75976 actualizacion final
+9deb7fe Merge pull request #70 from sarai701/main
+0d10d39 Merge pull request #67 from KevinRLE/main
+78a8b4d Merge pull request #66 from HersonGiron/main
+a8a32bb Merge pull request #64 from JennBF/main
+e376d62 Merge pull request #63 from astridrl/pagos
+5d24811 Merge pull request #60 from ArmandoAJD/main
+1ee4864 Merge pull request #59 from ArmandoAJD/AndreCastellanos9959-24-3019
+d044597 Merge pull request #57 from ArmandoAJD/ArmandoDeLeon9959-24-155
+0652da2 Merge pull request #56 from JennBF/kari
+b122e0f Merge pull request #55 from JennBF/Karina
+585ed18 Merge pull request #52 from Marice26/main
+5a0f229 Merge pull request #51 from JennBF/ramaale
+a1755a0 Merge branch 'main' into main
+ef67f56 modificaciones contabilidad, auditores Jonathan Gonzalez
+55da9e0 merge rama de Angoly
+3bd2a6e Cambios Camila
+55908de Segunda version de binarios
+eee3765 uniendo rama kari
+e500d2b arreglo de bitacora, try y usuario
+9665927 Actualizacion de bitacora con solucion de bugs y guardado del nombre de usuario en uso
+63f2d05 documentación
+df1f94e arreglos usuarios
+cc97e4a codigo documentado
+1b7209a Arreglos en clientes esteticos
+40dfa89 Merge pull request #8 from marlondeleon17/main
+4ba1757 Inventario casi funciona
+c021038 cambios a v
+3a6b5aa arreglos inventario
+c4424a1 arreglando error parcialmente
+fff4c4e Merge Rama Angel
+3d4a574 Arreglos en bitacora, y solucion de errores varios
+ecf43d4 arreglando errores
+faaebbb Actualizacion del proyecto nominas
+3f21c5b uniendo rama KARI
+4142fa4 probando el programa
+a86a5a9 arreglos previos
+33f1407 Documentacion del programa
+68dc2d1 Documentacion del programa
+eee66f0 implementacion de interrupcion
+10ab2fe Programa
+df13c15 Actualizaciones Grupo4
+25a8a46 Actualizaciones
+834bebb Actualizaciones Grupo4
+01138c8 Merge branch 'Rama-Angel' of https://github.com/JennBF/Proyectop12k25
+0be91fd Documentacion en mis codigos
+c1781ee Implementacion de bin
+9a1d0e3 Actualizacion de implementacion de Nomina
+ec7f771 Resolución Conflictos
+cf69a7c Implementación de calculo de nominas
+f88d937 aburrido
+ac2427a back up Jonathan Gonzalez
+a1ce703 cambios
+e7cb56f cambios
+532e163 merme rama angoly
+1a0dff5 Documentación
+aba77e6 Merge branch 'main' into pagos
+101b6f6 Se agregan archivos binarios en algunas clases 9959-24-6203
+2c076fb Resolviendo Conflictos
+e74e892 merge kari
+00704c0 documentando cpp
+667f642 Resolviendo Conflictos
+69b8bd4 Subiendo pagos
+1325565 documentacion
+4761503 se agrego las excepciones
+676c5a2 bitacora.dat
+d793363 Uniendo rama ANGOLY
+6073975 Nuevos cambios en facturación y proveedores
+b62451d Ferdynand monroy 9959 24 14049 Actualización de bitacora y agregue archivos binarios
+455e389 Resuelto conflicto: manteniendo versión remota de MenuSistemaBanco.layout
+7f7764c Guardando cambios de MenuSistemaBanco.layout antes del pull
+1d80544 Subiendo
+17337e7 Subiendo
+a379ad0 menú de usuarios terminado, creación de la clase proveedor
+631de28 Merge branch 'Grupo4' into luis-valenzuela-9959-24-12583
+98f0eb2 Se modificaron las bitacoras y la documentación
+eb8d21e Merge pull request #14 from KevinRLE/luis-valenzuela-9959-24-12583
+1bbd92a actualizacion en menu y main
+b75b3f7 Ayudando a arreglar errores de clase inventarios
+4d8d0cf Cambios de bitacora y archivo binario .dat agregado
+160434c menú de usuarios terminado, creación de la clase proveedor
+7bcb213 Merge branch 'edelaguila:main' into IsaCedillo9959241672
+09a2ebf Mejora de bitacora e implementacion a clase empleados
+54bd5bb Merge branch 'AndreCastellanos9959-24-3019' of https://github.com/ArmandoAJD/Proyectop12k25
+796b577 Compras binarios
+9cb98a9 Crud andre
+9df6f95 Merge rama Kari
+db2ef0c inventario pt2
+03c475c Merge branch 'ArmandoDeLeon9959-24-155'
+965a24a Bitacora general
+cc8aed5 uniendo la rama de KARINA
+b7b032c Agregando el diseño y cout de Backup
+969d0da archivos
+f164bf8 archivos
+1c8cc66 reportes modificaciones
+0d82bad merge Rama Angel
+8d085ac Modificacion menu clientes y arreglos
+35245a9 Uniendo Rama Angel
+62c5fa2 Arreglos de bitacora y binario
+0f5a378 Uniendo rama de Angoly
+e6cca07 Ayudando y tratando de corregir errores en inventario. Correciones en Productos
+90e64de Merge branch 'edelaguila:main' into main
+48272b4 Cambios Camila
+54ed62a Actulización de menus
+0a42a37 modificaciones
+c9d8a90 tratando de arreglar el codigo de ale e incluyendo bien las clases
+8b8ac6e corrigiendo errores pt2
+efa4ab4 poquitos errores
+9499c68 inventario mejoras
+b55cd53 mejoras inventario
+7e15bb5 mejoras inventario
+e9b2c65 mejoras inventario
+5a65c92 uniendo cambios de angel
+06213e2 Agregue binarios y correcion de errores varios
+17e2d41 corrigiendo errores de headers y probando el programa
+f8cb4ce inventario
+0ae2aa8 Uniendo rama ale
+e098a7a uniendo rama de Angel
+f21bf7a restauración usuarios e inventario
+1534e67 restauración usuarios e inventario
+73c4af2 Se agrego clases de Cuentas
+27b7cee Agregue mejoras en envios
+cbe625c errores
+8985f6e errores
+ffd3338 merge rama de camila
+5bbe8af Nuevos cambios esteticos
+643a6ba merge rama ale
+f09ce97 Merge de rama angel
+a1836cf mejoras inventario
+045646a Mejoras en envios y añadi ID de identificacion de envios
+d0f4d2f actualizacion de bitacora y prueba a facturas
+601f6a6 Cambios Facturación
+f4fd148 pruebas del programa
+59c7eb2 Merge Rama Angel
+20f49ed Cambios y mejorar respecto a envios
+10086b2 Merge pull request #5 from marlondeleon17/marlon19460--5001
+0c7c8c3 actualizazacion bit
+149fd8c Merge cambios de rama-ale
+09c5af3 Merge branch 'Camila17623' of https://github.com/JennBF/Proyectop12k25 # Please enter a commit message to explain why this merge is necessary,
+d139a11 id usuarios e inventario
+c615a4c mejoras usuarios e inventarios
+4d18b73 cambios camila
+85227e0 id agregados
+296cd50 Merge de rama-angel
+d5100bd Cambios en envios, menu y funciones
+89ea422 añadiendo inventarios, uniendo rama ale
+41bb3a0 proceso inventario
+1263460 Merge rama ale
+8ae5f8f probando el funcionamiento
+88960b9 proceso inventario
+12c98a2 Mejoras
+a3f675a almacen modificado
+cbe65db Merge branch 'main' of https://github.com/JennBF/Proyectop12k25
+80096d1 Arreglando concordancias con envios y pedidos, probando bitacora
+ea9edd5 Bitacora, probando envíos
+862a41f Merge branch 'ramaale' of https://github.com/JennBF/Proyectop12k25 into ramaale
+66f31c5 contraseña confirmacion
+913672c Merge branch 'edelaguila:main' into main
+0b72fd9 commits perdidos
+b4358f1 commits pendientes
+7f0018e Cambios nuevos...
+cd923a7 Solucionando Errores
+7cf96d4 Uniendo Rama-Angel a main, corrección de errores
+dc83ce1 Arreglos para inicializacion de programa
+6f8bbc0 Corrigiendo errores de merge
+fdd39f3 Añadiendo las mejoras de pedidos y productos
+7f81aae Corrigiendo Errores pedidos y actualizando menus
+982013b Corrigiendo errores de pedidos y productos, pasando de texto a binario
+baf3704 Muchos cambios
+dd0c351 Uniendo Rama Ale
+29a221b Merge pull request #50 from JennBF/ramaale
+467202f Merge pull request #49 from ArmandoAJD/ArmandoDeLeon9959-24-155
+0bc32bf Merge pull request #48 from astridrl/CPactualizado
+f8a82c8 Merge pull request #47 from Marice26/steven_11528
+aa9a3cd modificaciones admin y user
+aa627ec Modificando Bitacora .txt
+8343015 Contraseña usuario
+a0c5d01 Merge branch 'edelaguila:main' into ArmandoDeLeon9959-24-155
+6046cb4 Solucion
+2d4cd44 CRUD Armando
+a2b9a79 5002
+96d82fe Merge branch 'main' of https://github.com/ArmandoAJD/Proyectop12k25
+d76578c Merge branch 'main' into CPactualizado
+e699370 subiendo cambios
+ccb2d65 Guardando bitacora
+9e2dc4d Correcciones de bitácora y clientes txt
+e565ec5 Agregando y modificando. Para el trabajo de Pedidos transaccional
+c25eff6 Merge pull request #46 from KevinRLE/main
+a33cdb5 Merge branch 'ArmandoDeLeon9959-24-155'
+a7b6667 CRUD Armandi
+953166e Merge pull request #13 from KevinRLE/Grupo4
+0228b7f Merge branch 'main' into Grupo4
+f124592 Agregando archivo de inventario.txt
+63499eb Cambios locales antes de hacer pull
+83faa04 Update .gitignore
+299de41 Merge pull request #45 from JennBF/main
+b430d04 Merge pull request #44 from JennBF/KariRama
+4a1072a Merge pull request #42 from sarai701/main
+58d6a52 Merge pull request #41 from ArmandoAJD/AndreCastellanos9959-24-3019
+864ff62 Merge pull request #40 from HersonGiron/main
+7c47a84 Merge pull request #39 from Marice26/marice3775
+74f031f Merge pull request #37 from astridrl/facturas
+71b924a Merge pull request #36 from astridrl/archivos
+341967c Merge pull request #35 from astridrl/bitacora
+b46bd5e Merge pull request #33 from Marice26/marlon19460
+6926ac1 Merge pull request #32 from ArmandoAJD/main
+c468919 Añadiendo Parte final Coord Jennifer
+42bffdf Agregando clases y logica finales. Corrigiendo Usuarios
+c52cde2 añadiendo mas clases
+ac7b10a usuario.txt
+81ac554 Corrigiendo Errores
+382b67a agregando menus
+c6f6f4a Transportistas, administración, inventario y usuario
+bf29069 Corrección de Bitacora
+88ad1cb agregando mas clases
+7b3845b transportistas
+2d3df48 arreglando errores
+b2cbddb agregando reportes
+9f8241c agregue reportes
+871d61f arreglando errores de clases de Cami
+ef4fedd  Agregando Rama de Gabriela Escobar Mantenimiento Logistica
+6b35c58 Nuevos cambios
+d23fd3a Merge branch 'RamaKarina' of https://github.com/JennBF/Proyectop12k25
+9f633e6 almacenes
+9cd84fd administracion, transportistas
+f074a4a añadiendo lo nuevo
+1f05c82 Agregando Trabajo de Camila Araujo Mantenimiento Logistica
+96e84be Transportistas
+eeab54d añadiendo parte de coord
+2aadaa6 Proveedores
+5bb21e5 Mantenimiento bitacora, menuclientes y clientes
+eabc57a error
+77f1af4 error
+c2dd98f v2 logistica
+7d87910 corrigiendo errores
+96f311b correción archivos
+bbf8db9 Actualización de archivos
+5e983ce andre castellanos CRU
+59cc700 Se actualiza la clase clientes 9959-24-6203
+3a6d931 modificaciones en bancos Jonathan Gonzalez
+5904672 Resueltos conflictos del merge con TiposdeCuentas9959-24-6859
+5ac1bf7 Merge resuelto: conflicto en .layout
+0c782ad antes del pull
+9c2ce42 conflictos de .depend resueltos
+883a544 Se agrego Tipos de Cuentas
+b810232 funcionalidad de lista de usuarios, Luis Valenzuela
+feee411 Merge branch 'Grupo4' into luis-valenzuela-9959-24-12583
+13334e9 funcionalidad de lista de usuarios, Luis Valenzuela
+bd59eb5 Actualizacion
+b6931ec Cambios de la bitacora
+4f69d65 Merge pull request #10 from KevinRLE/Anthony_Suc_9959-24-389
+d3aa1d5 Merge branch 'Grupo4' into Anthony_Suc_9959-24-389
+4e69840 Actualizacón de archivos
+8d3c956 Implementacion de orden de menus
+8b0d5af Cambios agreagos en la bitacora por Ferdynand
+be606fd Mantenimiento menus
+1f32e6c clase bancos Jonathan Gonzalez
+a5caec0 Cambios realizados en la bitacora
+8e29751 Cambios realizados en bitacora
+f44a1fc Merge branch 'edelaguila:main' into main
+bc40338 3775 mante clientes 5004
+4add637 agregando correcciones
+5146112 Actualizacion de clientes y proveedores
+3e7e199 Menu principal main
+29ca292 Merge branch 'main' into kevin_lopez_9959_24_3309
+93ae828 Menu principal main
+b31e9bf mejoras acreedores2
+cb19e0e Resuelto conflicto de fusión en Cuentas Corrientes.layout
+84b0d7e documentación y mejoras de acreedores
+29430bd Resuelto conflicto de merge en bitacora.txt
+c604590 actualizando
+519229c documentación y mejoras acreedores
+56a98b7 Agregando sistema de seguridad usuarios y menu archivos Astrid
+27380fb Subiendo cambios
+84e958b Guardando mis cambios
+8b07566 Documentacion y mejoras bitacora
+43ca939 Merge pull request #3 from MEILYNGRC/meilyn2317838
+4e7497d 5002
+9bbdf73 actualizacion de usuario
+82e55f6 bitacora
+af7d417 Primer envio de clase prestaciones
+8f33cb4 actualizacion de clase empleados
+731bfc9 actualizaciones empleados
+66e5631 Merge pull request #2 from marlondeleon17/marlon19460
+726b468 actualizacion
+4017566 Clase Empleados
+29e9223 Actualizacion bitacora
+6602a5b h
+2c28f31 usuarios ingreso
+6fa2d12 Merge branch 'edelaguila:main' into bitacora_9959241733
+3f3a8c0 Merge pull request Grupo4
+f683d25 actualización de bitacora.txt
+3a2fdac Primera implementacion bitacora
+cbd3394 actualizacion
+769572a Merge pull request #31 from JennBF/main
+81e9ae1 Merge pull request #30 from sarai701/main
+d5d35bd Merge pull request #29 from Marice26/main
+516d2c3 Merge pull request #28 from JennBF/RamaKarina
+40d09aa Merge pull request #27 from ArmandoAJD/ArmandoDeLeon9959-24-155
+75f841e Merge pull request #26 from astridrl/facturas
+2215438 Mantenimiento archivo .h
+7f1c6e4 Solucion de Inventario
+fff1aa3 Mantenimiento archivo .cpp
+e0c46b0 Solucion y detectando errores
+fdfbe04 inventario
+21c355d solucionando errores
+43a5f49 Programa sin errores
+5a9ebc0 Merge branch 'rama-angel' of https://github.com/JennBF/Proyectop12k25
+9867bac Bitacora
+79d07c3 Añadiendo Rama Gabriela Main y Reportes
+ca393a8 Reportes
+65dada2 Añadiendo Clases Usuarios e Inventarios
+c646972 contabilidad-9959-23-3184
+743b243 inventario y usuarios
+7d0784b usuarios e inventario
+4e26c71 Uniendo Rama de Camila Clase Facturacion
+c4f3f37 Uniendo rama Coord De clase de Envio y clase pedidos
+9b62d48 Clase Pedidos y Clase Envios
+8b33fe4 modificacion de contabilidad Jonathan Gonzalez
+1b40196 Actualización Facturación
+49d7342 Conflictos resueltos tras hacer merge con EmpleadosyBitacora-9959-24-6859
+1ffb036 Se agrego la clase Empleados y clase Bitacoras
+facd60d Merge branch 'RamaKarina' of https://github.com/JennBF/Proyectop12k25
+0515d3c Modificación Inventario
+0bba44b Correcciones
+8441fca Resolviendo conflicto con archivo Header Camila
+58799eb Agregando Trabajo de Jennifer
+a08f063 Cambios Facturación
+8e5e605 Resolviendo Conflictos Rama Karina
+7f5523f ramas pruebas
+80a37ae menuventa
+3a2d7c3 Inventario e Usuarios
+df8f652 Prueba de empleados y bitacora
+3509a45 Se agregaron las clases de Empleados y Bitacoras
+a5aeb80 Merge branch 'EmilioReyes9959-23-3303' of https://github.com/ArmandoAJD/Proyectop12k25
+dad5808 actualizando
+cc88eb5 actualización de bitacora-9959-23-450
+077e1b1 solucuón de error
+f2c668a Merge branch 'main' into ArmandoDeLeon9959-24-155
+1b4e587 Resolviendo Conflictos Rama Gabriela
+c5adc82 Resolviendo Conflictos Rama Angel Eq3
+687313d Guardando cambios locales antes de hacer pull
+d36d114 Reportes
+9f11dc3 Bitacora ver1 por Boris de Leon 9959-24-6203
+63ae498  Resolucion conflicto rama Camila
+7089f74 enviando clases de facturas
+2f13db6 Actualizacion de bitacora
+7636b0c Merge branch 'CamilaRama' of https://github.com/JennBF/Proyectop12k25
+138f369 Cambios Facturación
+6448c7e Merge branch 'AndreCastellanos9959-24-3019' of https://github.com/ArmandoAJD/Proyectop12k25 into ArmandoDeLeon9959-24-155
+c552e36 Prueba de rama
+8c6fe99 Agregando clases de pedidos y envíos
+07df1cc Guardando cambios locales
+be8f6c2 cambios locales para actualizar
+022c727 Merge pull request #18 from HersonGiron/commitIsaC
+eb51dd6 Merge pull request #17 from ArmandoAJD/AndreCastellanos9959-24-3019
+ade577f Merge pull request #16 from JennBF/RamaCamila
+9082852 Merge pull request #15 from JennBF/rama-angel
+2f690f4 Merge pull request #14 from HersonGiron/commitAngel
+c34d1d3 Merge pull request #13 from sarai701/Clientes_Proveedores-2959-24-6203
+c5574a5 Merge pull request #10 from KevinRLE/Grupo4
+9016899 Merge pull request #9 from Marice26/main
+108fdef Merge pull request #8 from astridrl/main
+25a2378 Merge pull request #7 from sarai701/Equipo5-9959-23-450
+6ad5661 Agregando menu de procesos y clase transacciones
+206d6f1 Resolver conflicto en Cuentas Corrientes.layout
+a589856 Guardar cambios en Cuentas Corrientes.layout
+02eb9d0 Mantenimiento Clientes/Proveedores
+38d5daf mi commit acerca de los empleados
+5993c6e Bobes ponja (Prueba de branch)
+dd4d3dc Cambios en documentacion
+ced3976 bitacora
+0eb523b compras
+760dfb7 usuario
+e59eac6 Facturación
+2058200 Bitacora
+d175d6e Proyecto de nominas con sistema de seguridad login
+383fcdc Merge branch 'edelaguila:main' into Clientes_Proveedores-2959-24-6203
+fbbf9fd Se agregaron la clase proveedor y la clase cliente
+d86e872 Merge branch 'edelaguila:main' into main
+c02a959 Resuelto MenuSistemaBanco.layout
+f1af56c Merge pull request/kevin_lopez_9959_24_3309
+0d6563e Correcciones de Clases y Funcionamiento de Programa/Kevin López
+50908ed Correcciones de Clases y Funcionamiento de Programa/Kevin López
+2c9c4b6 Merge pull request luis-valenzuela-9959-24-12583
+30994a8 correción errores de desbordamiento, Luis
+72d0fbf Primer commit
+862da5a Grupo 6
+c30ed81 resolución problemas/Kevin López
+41a5380 resolución problemas/Kevin López
+fda22b6 Merge pull request/Anthony_Suc_9959-24-389
+fbf4922 Merge branch 'Grupo4' into Anthony_Suc_9959-24-389
+d410aa1 Merge rama Anthony_Suc_9959-24-389
+8eab7cb Implementacion archivos para producto y menu, por Anthony Suc
+bf5c2b5 Inventario/Salidas/Marco_Hernandez_9959_24_6201
+7e5bec2 Inventario/salidas by Marco Hernandez
+d7d2b3a Grupo6
+0ee74c8 Grupo 6
+23d4074 Merge pull request #2 from KevinRLE/Ferdynand_Monroy_9959_24_14049
+c465a6b Merge branch 'Grupo4' into Ferdynand_Monroy_9959_24_14049
+5a9c161 Merge pull request #1 from KevinRLE/Grupo4
+132b4a6 Actualizacion del Programa Priscila Guzmán 9959-23-450
+d1f196f Merge branch 'edelaguila:main' into Grupo4
+0574d9c Modificacion de bitacora por Ferdynand Monroy
+cd9f5e9 Merge branch 'edelaguila:main' into main
+ff72071 Archivo de prueba para la rama
+d834623 mantenimiento clientes
+6ac1937 Primera prueba
+ccc9928 Actualizacion de clase nominas y usuario Priscila Guzmán 9959-23-450
+dcb5fd7 Merge pull request #6 from HersonGiron/main
+38cef11 carpeta equipo 7
+21e6055 Sistema Inventarios
+26592d6 Subiendo codigo base
+9aa28f4 Carpeta de Logistica
+a94dd52 Archivo prueba equipo 1
+8f40fa5 Archivo prueba grupo 1
+98d133d Merge pull request #5 from sarai701/Equipo5
+6943baf archivo prueba grupo 1
+aab6da6 Merge branch 'Equipo5'  especially if it merges an updated upstream into a topic branch.
+e5988a8 Carga de Programa
+07d9b4d Merge pull request #4 from JennBF/main
+126b856 Merge branch 'edelaguila:main' into main
+f718204 Merge pull request #3 from sarai701/Equipo5
+7bd81f3 Equipo5
+ff6d85a Merge branch 'edelaguila:main' into main
+559e44c Merge pull request #2 from KevinRLE/Grupo4
+222f3e7 Merge pull request #1 from astridrl/main
+5251d36 Grupo4
+8f26824 Subiendo archivo de prueba
+1c7cfd2 Creando Carpeta Equipo 3
+1919f0d Equipo5
+b6f9e69 Initial commit

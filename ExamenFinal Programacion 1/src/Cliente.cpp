@@ -7,8 +7,8 @@
 
 using namespace std;
 
-vector<Cliente> Cliente::clientes;
-int Cliente::contadorClientes = 200;  // Código inicial modificado
+vector<Cliente> Cliente::clientes;// menu de los clientes
+int Cliente::contadorClientes = 200;  // CÃ³digo inicial modificado
 
 Cliente::Cliente() {}
 
@@ -31,7 +31,7 @@ void Cliente::MenuClientes() {
         cout << "\t\t\t 3. ELIMINAR CLIENTE\n";
         cout << "\t\t\t 4. SALIR\n";
         cout << "\t\t\t-------------------------------\n";
-        cout << "\t\t\tIngresa tu opción: ";
+        cout << "\t\t\tIngresa tu opciÃ³n: ";
         cin >> opcion;
 
         switch (opcion) {
@@ -47,7 +47,7 @@ void Cliente::MenuClientes() {
             case 4:
                 return;
             default:
-                cout << "\n\t\t\t Opción inválida...Intente otra vez...\n";
+                cout << "\n\t\t\t OpciÃ³n invÃ¡lida...Intente otra vez...\n";
                 cin.ignore();
                 cin.get();
         }
@@ -61,7 +61,7 @@ void Cliente::AgregarCliente() {
     cout << "\t\t\t----------------------\n";
 
     if (contadorClientes > 300) {
-        cout << "\t\t\tLímite de clientes alcanzado.\n";
+        cout << "\t\t\tLÃ­mite de clientes alcanzado.\n";
         return;
     }
 
@@ -71,7 +71,7 @@ void Cliente::AgregarCliente() {
     cout << "\t\t\tIngrese el nombre del cliente: ";
     cin.ignore();
     getline(cin, nombre);
-    cout << "\t\t\tIngrese el número telefonico del cliente: ";
+    cout << "\t\t\tIngrese el nÃºmero telefonico del cliente: ";
     cin >> telefono;
     cout << "\t\t\tIngrese el numero de NIT del cliente: ";
     cin >> nit;
@@ -80,7 +80,7 @@ void Cliente::AgregarCliente() {
     GuardarClientes();
     cout << "\t\t\tCliente agregado exitosamente.\n";
 
-    cout << "\nPresione ENTER para regresar al menú...";
+    cout << "\nPresione ENTER para regresar al menÃº...";
     cin.ignore();
     cin.get();
 }
@@ -92,7 +92,7 @@ void Cliente::ModificarCliente() {
     cout << "\t\t\t--------------------------\n";
 
     string codigoBuscado;
-    cout << "\t\t\tIngrese el código del cliente a modificar: ";
+    cout << "\t\t\tIngrese el cÃ³digo del cliente a modificar: ";
     cin >> codigoBuscado;
 
     for (auto& cliente : clientes) {
@@ -102,20 +102,20 @@ void Cliente::ModificarCliente() {
             cout << "\t\t\tTelefono: " << cliente.telefono << "\n";
             cout << "\t\t\tNIT: " << cliente.nit << "\n";
 
-            cout << "\t\t\t¿Que desea modificar?\n";
+            cout << "\t\t\tÂ¿Que desea modificar?\n";
             cout << "\t\t\t1. Telefono\n";
             cout << "\t\t\t2. NIT\n";
             int opcion;
             cin >> opcion;
 
             if (opcion == 1) {
-                cout << "\t\t\tIngrese nuevo número telefonico: ";
+                cout << "\t\t\tIngrese nuevo nÃºmero telefonico: ";
                 cin >> cliente.telefono;
             } else if (opcion == 2) {
                 cout << "\t\t\tIngrese nuevo NIT: ";
                 cin >> cliente.nit;
             } else {
-                cout << "\t\t\tOpcion inválida.\n";
+                cout << "\t\t\tOpcion invÃ¡lida.\n";
             }
 
             GuardarClientes();
